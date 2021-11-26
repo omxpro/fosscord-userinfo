@@ -1,0 +1,1 @@
+Make the sh file delete the .env and then wget the new .env and then mv it to the bundles folder
